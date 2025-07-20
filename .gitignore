@@ -1,0 +1,21 @@
+# Ignore private keys and secrets
+*.key
+*.pub
+*.pem
+
+# Cosign sensitive files
+cosign.key
+cosign.pub
+
+# Shell history
+*.sh~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
