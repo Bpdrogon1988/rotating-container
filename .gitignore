@@ -19,3 +19,8 @@ Thumbs.db
 
 # VS Code
 .vscode/
+cosign.key
+cosign.pub
+.DS_Store
+node_modules/
+.DS_Store
